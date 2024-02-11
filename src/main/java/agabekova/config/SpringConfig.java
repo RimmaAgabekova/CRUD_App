@@ -16,8 +16,6 @@ import org.thymeleaf.spring5.view.ThymeleafViewResolver;
 
 import javax.sql.DataSource;
 
-
-
 @Configuration
 @ComponentScan("agabekova")
 @EnableWebMvc
